@@ -1,0 +1,13 @@
+{
+    "project_name": "name",
+    "project_short_description": "Short description of the project",
+    "license": "GPLv3",
+    "author_name": "",
+    "author_email": "",
+    "cpp_standard": ["17", "14", "11", "03", "98"],
+    "add_installation": "y",
+    "use_cpack": "n",
+	"add_boost": "n",
+	"add_sfml": "n",
+	"add_google_test": "y"
+}

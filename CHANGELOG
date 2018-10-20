@@ -1,0 +1,8 @@
+        Cookiecutter C++ project change log
+
+        1.0.0 - 2018-10-21
+
+        * Add README file
+        * Add support for Boost and GoogleTest
+        * Generate man page
+        * Add installation commands
